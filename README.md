@@ -31,7 +31,16 @@ I'm also interested in automation stuff.
 [LinkedIn](https://www.linkedin.com/in/andreas-mewald/)
 
 
+<h4 align="center">Top langs :tongue:</h4>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moerwald&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=moerwald&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
 
 <!--
 **moerwald/moerwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -13,7 +13,7 @@ I'm also interested in automation stuff.
 
 ### Technologies & Frameworks I've worked with:
 
-[](https://raw.githubusercontent.com/moerwald/moerwald/main/picture/python.png)
+![Pyhton](https://raw.githubusercontent.com/moerwald/moerwald/main/picture/python.png)
 
 
 <!--

@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I'm coding for 🍔. These are my favorite languages:
+
+💪C#
+💪PowerShell
+👍Python
+
+A long time ago I used to code in C++/C ⏲️.
+
+I'm also interested in automation stuff.
+
+
+### Technologies & Frameworks I've worked with:
+
 <!--
 **moerwald/moerwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,9 +2,9 @@
 
 I'm coding for 🍔. These are my favorite languages:
 
-💪C#
-💪PowerShell
-👍Python
+- C#
+- PowerShell
+- Python
 
 A long time ago I used to code in C++/C ⏲️.
 
@@ -13,7 +13,16 @@ I'm also interested in automation stuff.
 
 ### Technologies & Frameworks I've worked with:
 
-![Pyhton](https://raw.githubusercontent.com/moerwald/moerwald/main/picture/python.png)
+- C#
+- C++/C
+- Pyhton
+- HTML
+- CSS
+- SQL
+- SIP
+- RTP
+- Ranorex
+- Jenkins/TFS
 
 
 <!--

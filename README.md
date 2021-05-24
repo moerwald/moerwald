@@ -31,6 +31,8 @@ I'm also interested in automation stuff.
 [LinkedIn](https://www.linkedin.com/in/andreas-mewald/)
 
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moerwald&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
 <!--
 **moerwald/moerwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

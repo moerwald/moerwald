@@ -26,7 +26,8 @@ I'm also interested in automation stuff.
 
 ### You can find me here:
 
-[Stackoverflow]{https://stackoverflow.com/users/6270170/moerwald}
+[Stackoverflow](https://stackoverflow.com/users/6270170/moerwald)
+[LinkedIn](https://www.linkedin.com/in/andreas-mewald/)
 
 
 <!--

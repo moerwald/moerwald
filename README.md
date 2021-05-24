@@ -35,11 +35,11 @@ I'm also interested in automation stuff.
 
 <h4>Top langs :tongue:</h4>
 
-<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moerwald&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moerwald&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <h4 >Profile stats :musical_keyboard:</h4>
 
-<p ><img src="https://github-readme-stats.vercel.app/api?username=moerwald&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=moerwald&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 
 

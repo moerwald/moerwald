@@ -15,7 +15,7 @@ I'm also interested in automation stuff.
 
 - C#
 - C++/C
-- Pyhton
+- Python
 - HTML
 - CSS
 - SQL

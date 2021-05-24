@@ -13,6 +13,7 @@ I'm also interested in automation stuff.
 
 ### Technologies & Frameworks I've worked with:
 
+[I'm an inline-style link](https://www.google.com)
 
 
 <!--
